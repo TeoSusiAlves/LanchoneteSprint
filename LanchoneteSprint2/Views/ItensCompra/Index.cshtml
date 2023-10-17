@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LanchoneteSprint2.Models.CompraItem>
+
+@{
+    ViewData["Title"] = "Index";
+    var id = ViewData["CompraId"];
+}
+
+<h1>Itens Compra</h1>
+
+<p>
+    <a asp-action="Create" asp-route-id=@id>Adicionar Item</a>
+</p>
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Produto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CadCompras)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Qtd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CadCompras.Nota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Qtd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.CompraItemId">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.CompraItemId">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.CompraItemId">Apagar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -1,0 +1,54 @@
+﻿@model IEnumerable<LanchoneteSprint2.Models.VendeItem>
+
+@{
+    ViewData["Title"] = "Index";
+    var id = ViewData["idVenda"];
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create" asp-route-id=@id>Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Produto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CadVendas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Qtd)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Preco)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Produto.ProdutoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CadVendas.CadVendasId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Qtd)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Preco)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.VendeItemId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.VendeItemId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.VendeItemId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

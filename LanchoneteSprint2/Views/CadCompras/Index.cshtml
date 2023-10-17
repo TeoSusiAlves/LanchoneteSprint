@@ -1,0 +1,56 @@
+﻿@model IEnumerable<LanchoneteSprint2.Models.CadCompras>
+
+@{
+    ViewData["Title"] = "Index";
+    var idCompra = ViewData["compraId"];
+}
+
+<h1>Index</h1>
+
+<form method="post" asp-action="Filter">
+    <input type="text" name="inFiltro" placeholder="Busque por Nota"/>
+    <input type="submit" value="Pesquisar" />
+        
+</form>
+
+<p>
+    <a asp-action="Create" asp-route-id="@idCompra">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataHora)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nota)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.DataHora)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Movimentacao)
+                </td>
+                <td>
+                    <a asp-controller="ItensCompra" asp-action="Index" asp-route-id="@item.CadComprasId">Itens</a> |
+                    <a asp-action="Edit" asp-route-id="@item.CadComprasId">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@item.CadComprasId">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@item.CadComprasId">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

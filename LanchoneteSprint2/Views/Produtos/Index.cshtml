@@ -1,0 +1,69 @@
+﻿@model IEnumerable<LanchoneteSprint2.Models.Produto>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+
+
+<h1>Produto</h1>
+
+<form method="post" asp-action="Filter">
+    <div class="row">
+        <input class="input-group-text m-3" style="width: 300px" type="text" name="inFiltro" /> 
+        <button style="width: 90px" class="btn btn-outline-dark m-3">Pesquisa</button>
+    </div>
+</form>
+
+<p>
+    <a asp-action="Create">Adicionar produto</a>
+</p>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Estoque)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecoUn)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CadProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fornecedor)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Estoque)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoUn)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CadProduto.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fornecedor.Nome)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ProdutoId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ProdutoId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ProdutoId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

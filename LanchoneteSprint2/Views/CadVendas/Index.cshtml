@@ -1,0 +1,61 @@
+﻿@model IEnumerable<LanchoneteSprint2.Models.CadVendas>
+
+@{
+    ViewData["Title"] = "Index";
+    var idVenda = ViewData["vendaId"];
+}
+
+<h1>Index</h1>
+
+<form method="post" asp-action="Filter">
+    <input type="text" name="inFiltro" placeholder="Busque por Nota" />
+    <input type="submit" value="Pesquisar" />
+
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nota)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataHora)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Cliente)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Movimentacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nota)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataHora)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Cliente.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Movimentacao)
+            </td>
+            <td>
+                <a asp-controller="ItensVenda" asp-action="Index" asp-route-id="@item.CadVendasId">Itens</a> |
+                <a asp-action="Edit" asp-route-id="@item.CadVendasId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.CadVendasId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.CadVendasId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

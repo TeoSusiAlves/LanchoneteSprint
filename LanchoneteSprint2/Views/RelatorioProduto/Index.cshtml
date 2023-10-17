@@ -1,0 +1,53 @@
+﻿@model IEnumerable<LanchoneteSprint2.Models.RelatorioProduto>
+
+@{
+    ViewData["Title"] = "Relatório Produtos";
+}
+
+<h1>Relatório Produtos</h1>
+
+<form method="post" asp-action="Index">
+        <input class="input-group-text " style="width: 300px" type="text" name="inFiltroProd" placeholder="Procure pelo Nome do Produto" />
+        <input class="input-group-text mt-3 mb-3" style="width: 300px" type="text" name="inFiltroCat" placeholder="Procure pela Categoria do Produto" />
+    
+    <button class="btn btn-success" type="submit">Pesquisar</button>
+</form>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Quanti)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CadProduto)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PrecoUn)
+            </th>
+            
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Quanti)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CadProduto.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.PrecoUn)
+            </td>
+            
+        </tr>
+}
+    </tbody>
+</table>
