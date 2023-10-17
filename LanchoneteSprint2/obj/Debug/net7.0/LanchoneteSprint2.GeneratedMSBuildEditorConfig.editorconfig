@@ -9,229 +9,229 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = LanchoneteSprint2
 build_property.RootNamespace = LanchoneteSprint2
-build_property.ProjectDir = C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\Lanchonte1\LanchoneteSprint2\
+build_property.ProjectDir = C:\Users\Aluno\Desktop\Lanchonte1\Lanchonte1\LanchoneteSprint2\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\Projeto BackEnd Brotas\Lanchonte1\LanchoneteSprint2
+build_property.MSBuildProjectDirectory = C:\Users\Aluno\Desktop\Lanchonte1\Lanchonte1\LanchoneteSprint2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Areas/Identity/Pages/_ViewStart.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Areas/Identity/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcSWRlbnRpdHlcUGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ29tcHJhc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ29tcHJhc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ29tcHJhc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ29tcHJhc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadCompras/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ29tcHJhc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadProdutos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkVmVuZGFzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkVmVuZGFzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkVmVuZGFzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkVmVuZGFzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/CadVendas/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkVmVuZGFzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Clientes/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Clientes/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Clientes/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Clientes/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Clientes/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Clientes/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Clientes/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Clientes/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Clientes/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Clientes/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2xpZW50ZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Fornecedores/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybmVjZWRvcmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Home/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Home/Privacy.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNDb21wcmFcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNDb21wcmFcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNDb21wcmFcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNDb21wcmFcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensCompra/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNDb21wcmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/ItensVenda/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSXRlbnNWZW5kYVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Produtos/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Produtos/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Produtos/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Produtos/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Produtos/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Produtos/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Produtos/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Produtos/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Produtos/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Produtos/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHV0b3NcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/RelatorioProduto/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/RelatorioProduto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVsYXRvcmlvUHJvZHV0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Shared/Error.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Shared/_LoginPartial.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Shared/_LoginPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Mb2dpblBhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Create.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVJdGVtc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Delete.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVJdGVtc1xEZWxldGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Details.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVJdGVtc1xEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Edit.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVJdGVtc1xFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Index.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/VendeItems/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVmVuZGVJdGVtc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/_ViewImports.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/_ViewStart.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aluno/Desktop/Projeto BackEnd Brotas/Lanchonte1/LanchoneteSprint2/Views/Shared/_Layout.cshtml]
+[C:/Users/Aluno/Desktop/Lanchonte1/Lanchonte1/LanchoneteSprint2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-7lq37q2gtd

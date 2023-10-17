@@ -11,7 +11,6 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("aspnet-LanchoneteSprint2-32d1a291-b419-4a46-bd69-333d52e3f07d")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("LanchoneteSprint2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
